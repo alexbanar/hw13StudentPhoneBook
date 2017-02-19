@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * Created by Android2017 on 17/02/2017.
  */
-public class Student {
+public class Student{
     //properties:
     String firstName;
     String lastName;
